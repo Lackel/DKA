@@ -13,6 +13,7 @@ python main.py \
     --no_of_captions 9 \
     --mcan_examples_path mcan_examples/ok_vqa/examples.json \
     --llama_path /slurm-files/model/Llama-2-13b-hf \
+    --blip_path /slurm-files/model/blip-itm-base-coco \
     --train_captions_path pnp_captions/ok_vqa/train_data_qr_captions.csv \
     --val_captions_path pnp_captions/ok_vqa/val_data_qr_captions.csv \
     --test_captions_path None \
