@@ -1,7 +1,7 @@
 # DKA: Disentangled Knowledge Acquisition
 Repo for the paper "Knowledge Acquisition Disentanglement for Knowledge-based Visual Question Answering with Large Language Models"
 
-[![arXiv](https://img.shields.io/badge/arXiv-2305.14053-red)](https://arxiv.org/abs/2407.15346)
+[![arXiv](https://img.shields.io/badge/arXiv-2407.15346-red)](https://arxiv.org/abs/2407.15346)
 
 ![method.png](./figure/model.png)
 
