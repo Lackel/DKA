@@ -1,7 +1,7 @@
 # DKA: Disentangled Knowledge Acquisition
 Repo for the paper "Knowledge Acquisition Disentanglement for Knowledge-based Visual Question Answering with Large Language Models"
 
-[![arXiv](https://img.shields.io/badge/arXiv-2305.14053-red)](https://arxiv.org/pdf/2310.13570.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2305.14053-red)](https://arxiv.org/abs/2407.15346)
 
 ![method.png](./figure/model.png)
 
@@ -25,13 +25,14 @@ You need to download the images, LLaMA model and BLIP model, and then specify th
 If you find our work useful, please consider citing our paper:
 
 ```bibtex
-@misc{xenos2023simple,
-      title={A Simple Baseline for Knowledge-Based Visual Question Answering}, 
-      author={Alexandros Xenos and Themos Stafylakis and Ioannis Patras and Georgios Tzimiropoulos},
-      year={2023},
-      eprint={2310.13570},
+@misc{an2024knowledgeacquisitiondisentanglementknowledgebased,
+      title={Knowledge Acquisition Disentanglement for Knowledge-based Visual Question Answering with Large Language Models}, 
+      author={Wenbin An and Feng Tian and Jiahao Nie and Wenkai Shi and Haonan Lin and Yan Chen and QianYing Wang and Yaqiang Wu and Guang Dai and Ping Chen},
+      year={2024},
+      eprint={2407.15346},
       archivePrefix={arXiv},
-      primaryClass={cs.CV}
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.15346}, 
 }
 ```
 

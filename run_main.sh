@@ -32,7 +32,7 @@ python main.py \
 #     --test_images_dir /slurm-files/data/test2017/ \
 #     --n_shots 10 \
 #     --k_ensemble 5 \
-#     --no_of_captions 9 \
+#     --no_of_captions 5 \
 #     --mcan_examples_path mcan_examples/a_ok_vqa/examples_aokvqa_test.json \
 #     --llama_path /slurm-files/model/Llama-2-13b-hf \
 #     --blip_path /slurm-files/model/blip-itm-base-coco \
